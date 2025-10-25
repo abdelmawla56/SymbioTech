@@ -51,7 +51,7 @@ Through AI integration and cloud connectivity, the app ensures smooth synchroniz
 
 ---
 
-## 🧰 Technology Stack
+## Technology Stack
 | Category | Tools / Technologies |
 |-----------|----------------------|
 | **Microcontroller** | ESP32-CAM |
@@ -64,19 +64,19 @@ These technologies are **open-source, low-cost, and optimized** for IoT and AI i
 
 ---
 
-## 📏 Success Metrics
+## Success Metrics
 - **Functional Accuracy:** ≥90% accuracy in object detection and gesture recognition  
 - **User Testing:** ≥80% positive user feedback from trial participants  
 - **System Reliability:** Stable wireless connectivity between glasses, gloves, and mobile app  
 
 ---
 
-## ⚖️ License
+## License
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📫 Contact
+## Contact
 For inquiries or collaboration:
 - **Hana Amr** – s-hana.mohamed@zewailcity.edu.eg  
 - **Rudaina Haitham** – s-rudaina.salmin@zewailcity.edu.eg  
