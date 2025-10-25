@@ -1,5 +1,7 @@
-#Date: Week 1
+# Date: Week 1
+
 Attendees: All team members
+
 Main Topics:
 
 Discussed project idea and scope.
