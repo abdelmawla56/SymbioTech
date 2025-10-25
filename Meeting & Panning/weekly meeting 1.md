@@ -1,8 +1,8 @@
 # Date: Week 1
 
-Attendees: All team members
+-> Attendees: All team members
 
-Main Topics:
+-> Main Topics:
 
 Discussed project idea and scope.
 
@@ -12,7 +12,7 @@ Assigned initial roles (hardware, software, documentation).
 
 Conducted research on similar assistive technologies.
 
-Progress:
+-> Progress:
 
 Problem and purpose finalized.
 
@@ -20,8 +20,10 @@ Selected hardware components for Smart Glasses prototype.
 
 Drafted system architecture diagram.
 
-Next Actions:
+-> Next Actions:
 
 Finalize component list and order hardware parts.
 
 Start design sketches for glasses and gloves.
+
+Prepare requirement document.
