@@ -1,16 +1,5 @@
 #  SymbioTech – AI-Driven Smart Assistive Ecosystem
 
-##  Abstract
-The Smart Assistive Ecosystem Project aims to create an inclusive and intelligent communication and navigation system that empowers individuals with visual, hearing, and speech impairments.  
-The ecosystem integrates three core components — **Smart Glasses**, **Smart Gloves**, and a **Mobile Application** — to facilitate seamless interaction and independence.
-
-- The **Smart Glasses** assist blind users by reading text aloud, recognizing objects and faces, and providing navigation guidance.  
-- The **Smart Gloves** enable deaf and mute users to communicate by translating sign language gestures into speech or text and converting spoken input into tactile or visual feedback.  
-- Acting as the central hub, the **Mobile Application** connects both devices, managing translation, communication, and personalization features.  
-
-Through AI integration, emotion detection, and cloud connectivity, the system bridges communication gaps between different disabilities while enhancing accessibility, independence, and social inclusion.
-
----
 
 ##  Problem Statement 
 Millions of individuals worldwide face daily challenges due to visual, hearing, or speech impairments. These limitations hinder their ability to communicate effectively, navigate safely, and live independently.  
